@@ -227,7 +227,8 @@ echo "Scalable Web App Running" > /var/www/html/index.html
 
 ## 🔹 Final Output
 
-<img width="1592" height="851" alt="image" src="https://github.com/user-attachments/assets/6a281f3f-641a-409c-a908-1b3d70b53a18" />
+<img width="1536" height="502" alt="image" src="https://github.com/user-attachments/assets/e971f35b-0db3-4904-8f82-250b2d658e78" />
+
 
 ![Final Output](output%201.png)
 
