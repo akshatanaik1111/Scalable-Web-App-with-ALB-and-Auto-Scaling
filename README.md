@@ -171,7 +171,7 @@ echo "Scalable Web App Running" > /var/www/html/index.html
 <img width="1717" height="727" alt="Screenshot 2026-05-13 235505" src="https://github.com/user-attachments/assets/a1bf50c4-5de0-4b5a-b276-889e4a0685af" />
 
 
-![Load Balancer](Load%20Balancers.png)
+
 
 ---
 
@@ -179,7 +179,7 @@ echo "Scalable Web App Running" > /var/www/html/index.html
 
 <img width="1745" height="506" alt="image" src="https://github.com/user-attachments/assets/e8a639cf-07a6-4340-9b66-70fee3d5442b" />
 
-![Auto Scaling](Auto%20Scaling.png)
+
 
 ---
 
@@ -187,7 +187,7 @@ echo "Scalable Web App Running" > /var/www/html/index.html
 
 <img width="1726" height="505" alt="image" src="https://github.com/user-attachments/assets/f749017c-fd02-47a6-a4c6-18f864fb60fd" />
 
-![EC2 Instances](instances.png)
+
 
 ---
 
@@ -195,7 +195,7 @@ echo "Scalable Web App Running" > /var/www/html/index.html
 
 <img width="1921" height="561" alt="image" src="https://github.com/user-attachments/assets/c1a1cc79-67e7-4766-970f-301641154714" />
 
-![Target Group](Target%20Group.png)
+
 
 ---
 
@@ -203,7 +203,7 @@ echo "Scalable Web App Running" > /var/www/html/index.html
 
 <img width="1915" height="564" alt="image" src="https://github.com/user-attachments/assets/2b1d43d2-3229-4085-ae44-937bc19b4d7d" />
 
-![Security Group ALB](security%20group%20alb.png)
+
 
 ---
 
@@ -211,7 +211,6 @@ echo "Scalable Web App Running" > /var/www/html/index.html
 
 <img width="1922" height="555" alt="image" src="https://github.com/user-attachments/assets/6e7a1117-8c8d-43f7-bad8-5a22a6835d5d" />
 
-![Security Group EC2](security%20group%20ec2-sg.png)
 
 ---
 
@@ -219,7 +218,7 @@ echo "Scalable Web App Running" > /var/www/html/index.html
 
 <img width="1597" height="856" alt="image" src="https://github.com/user-attachments/assets/c89b43f0-df6e-4141-be0f-8b2ef0f4aa00" />
 
-![Output](output.png)
+
 
 ---
 
@@ -228,7 +227,6 @@ echo "Scalable Web App Running" > /var/www/html/index.html
 <img width="1536" height="502" alt="image" src="https://github.com/user-attachments/assets/e971f35b-0db3-4904-8f82-250b2d658e78" />
 
 
-![Final Output](output%201.png)
 
 ---
 
