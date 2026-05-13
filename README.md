@@ -170,6 +170,7 @@ echo "Scalable Web App Running" > /var/www/html/index.html
 
 ## 🔹 Load Balancer
 
+<img width="1717" height="727" alt="Screenshot 2026-05-13 235505" src="https://github.com/user-attachments/assets/a1bf50c4-5de0-4b5a-b276-889e4a0685af" />
 
 
 ![Load Balancer](Load%20Balancers.png)
